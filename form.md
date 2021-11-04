@@ -23,9 +23,6 @@ Future: This is for you to thoughtfully extend or engage the work and what it me
 #### What potential directions of future work remain (if any)?
 
 
-
-
-
 Hot takes:
 personal interest: x/10
 paper quality / novelty: x/10
