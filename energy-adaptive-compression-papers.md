@@ -1,8 +1,8 @@
 # DSP Theory
 ---
-## Simple and Practical Algorithm for Sparse Fourier Transform
-## Haitham Hassanieh, Dina Katabi, et. al
----
+### Simple and Practical Algorithm for Sparse Fourier Transform
+#### Haitham Hassanieh, Dina Katabi, et. al
+
 From Katabi, one of the GOATs of DSP. Amazing.
 
 #### Summary
@@ -30,21 +30,49 @@ I'm interested in seeing how this method can be adapted to other problem domains
 ##### paper quality / novelty: 9/10
 This is a fundamental development in DSP algorithms and is well-presented
 
+### Fast and Efficient Compressive Sensing using Structurally Random Matrices
+#### et. al
+
+#### Summary
+(A 2-4 sentence summary of the paper)
+Background / Context: Sentence on the setting of the paper, broad placement in field, large societal reason for the paper.
+Motivation / Problem: The one sentence summary of the problem this is tackling and why it is important.
+Method: How they solve the problem (build a system? algorithm? study?)
+Results: Whats the speedup, the outcome, the takeaway.
+Future: This is for you to thoughtfully extend or engage the work and what it means.
+
+#### Strengths
+  * List strengths of the paper here
+  * In a list format
+
+#### Weaknesses
+  * List weaknesses of the paper here
+  * In a list format
+
+#### Additional comments
+(Further justify lists, if necessary, with the most critical items first)
+
+#### What potential directions of future work remain (if any)?
+
+
+Hot takes:
+personal interest: x/10
+paper quality / novelty: x/10
 
 * Design and Analysis of a Hardware-Efficient Compressed Sensing Architecture for Data Compression in Wireless Sensors
 
-  * Compressive Sensing on a CMOS Separable-Transform Image Sensor
+* Compressive Sensing on a CMOS Separable-Transform Image Sensor
 
-  * Sparse orthogonal matrices
+* Sparse orthogonal matrices
     Cheon, Hwang, ... Song
 
-  * A FURTHER LOOK INTO COMBINATORIAL ORTHOGONALITY
+* A FURTHER LOOK INTO COMBINATORIAL ORTHOGONALITY
 
-  * Image Compression Based on Compressive Sensing: End-to-End Comparison with JPEG
+* Image Compression Based on Compressive Sensing: End-to-End Comparison with JPEG
 
   * Adaptive Block Compressive Sensing: Toward a Real-Time and Low-Complexity Implementation
 
-  * Fast and Efficient Compressive Sensing using Structurally Random Matrices
+  *
 
   * A new wavelet based efficient image compression algorithm using compressive sensing
 
