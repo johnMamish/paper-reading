@@ -1,8 +1,6 @@
 ## Paper title
-## Paper authors
-
+#### Paper authors, year
 #### Summary
-(A 2-4 sentence summary of the paper)
 Background / Context: Sentence on the setting of the paper, broad placement in field, large societal reason for the paper.
 Motivation / Problem: The one sentence summary of the problem this is tackling and why it is important.
 Method: How they solve the problem (build a system? algorithm? study?)
@@ -22,7 +20,4 @@ Future: This is for you to thoughtfully extend or engage the work and what it me
 
 #### What potential directions of future work remain (if any)?
 
-
-Hot takes:
-personal interest: x/10
-paper quality / novelty: x/10
+TAGS:

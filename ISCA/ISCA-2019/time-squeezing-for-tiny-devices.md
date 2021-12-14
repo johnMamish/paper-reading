@@ -1,0 +1,3 @@
+In "traditional" cpu architecture techniques, a cpu's clock cycle must be at least as long as the longest propagation time in the worst PVT corner of the system. This means that there is a lot of slack for instructions that take less time. The slack in these instructions waste energy; the CPU can be just sitting around for over half of a cycle when the properly computed values have already propagated to the next pipeline stage and are waiting. This extra slack is referred to as "Dynamic Timing Slack".
+
+Some works already have ways to turn DTS into power savings by adjusting clock frequency on a per-instruction basis. This work uses compiler design to increase the amount of DTS so that a DTS-aware processor can save even more power due to the maximized DTS.

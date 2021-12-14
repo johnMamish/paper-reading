@@ -1,0 +1,5 @@
+There are well-known timing attacks for an attacker to be able to infer victim memory-access patterns by using timing information from cache evictions. AFAICT, these attacks rely on memory locality; in the theoretical example that a set is fully associative, not much information will be leaked by the attack. A previous method (by the same authors; 52 citations since 2018) mitigated this attack by randomizing memory access addresses with encryption keys which are periodically changed; the strength of their defense can be modulated by how often the encryption keys are replaced. In this paper, the authors present a new attack that will defeat their previously proposed strategy; to defend against the new attack, the encryption keys from their old method will have to be replaced prohibitively often. They also present a modification to their old technique (CEASAR) that doesn't require significantly more overhead, but will thwart the new attack.
+
+Hot takes:
+personal interest: 3/10
+paper quality / novelty: 7.5/10

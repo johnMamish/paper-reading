@@ -1,0 +1,6 @@
+Different microservices running on warehouse-scale computers have drastically different needs. In an ideal world, each microservice would have its own silicon that's specially tuned to it's core count, frequency, memory bandwidth and cache needs. Unfortunately, this is economically totally infeasible; warehouse-scale computers need to have homogenous hardware so that it can be fungible. The authors propose a solution that maintains hardware fungibility: at boot time, depending on the type of microservice that will run on the machine, tune parameters of the machine like core voltage, uncore voltage, cache allocation for I$ vs D$, etc for the microservice that will run on it. They identify 7 "knobs" that can be tuned to improve performance for specific microservices (each knob is discussed in section 6.1). I can't find their explanation for how they search a space that's 7-dimensional, presumably discontinuous, and costly to evaluate.
+
+Hot takes:
+Very good abstract. Not sure if the topic is easy to understand or if they just gave a stellar explanation.
+personal interest: 4/10
+paper quality / novelty: 7/10

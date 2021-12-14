@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "668b21095f6b8ab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "77012d0a89a00ef1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a2608f318e3b0f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d88057f2bfe116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40926a295fa7f32a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b66a8a7498eb9a93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25a4ec7b58dfccd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "550c2bf23352da31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a230f4e219c2e4e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "77012d0a89a00ef1",
+  "lastOpenFiles": [
+    "README.md",
+    "template.md",
+    "ASPLOS/ASPLOS-2020/time-sensitive-intermittent-computing-meets-legacy-software.md",
+    "ASPLOS/ASPLOS-2020/reliable-timekeeping-for-intermittent-computing.md",
+    "ASPLOS/ASPLOS-2019/an-open-source-benchmark-suite-for-microservices-and-their-hardware-software-implications-for-cloud-and-edge-systems.md",
+    "foundational.md",
+    "SENSYS-2019/caesar-cross-camera-complex-activity-recognition.md",
+    "Untitled.md",
+    "Organization.md"
+  ]
+}
