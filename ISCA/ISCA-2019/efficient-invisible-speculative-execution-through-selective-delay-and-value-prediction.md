@@ -1,0 +1,7 @@
+Speculative execution is a critical performance-enabling technique in modern processors, however, it has introduced opportunities for side-channel attacks, especially timing-based attacks through the memory hierarchy. The key issue in the most easily-executed attacks is that speculative execution can affect cache state. The most obvious way to mitigate this issue is to entirely prevent speculative execution from changing cache state, but this removes many of the benefits of spec execution.
+
+It's easier to hide changes to caches due to spec execution if its done in a limited scope (e.g. in L1 cache only). The authors present an approach where they leverage existing cache improvment work in "value prediction" where high-latency loads have their value predicted by an in-core unit, and execution is rolled back if the guess was wrong. The authors present a system where speculative execution is allowed in L1 hits, but they fall back on the value predictor for L1 misses, thereby preventing speculative execution from affecting cache state significantly.
+
+Hot takes:
+personal interest: 4/10  (actual concept not interesting for me, but "value prediction" could be useful in our apps).
+paper quality / novelty: 8/10
