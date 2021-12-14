@@ -1,5 +1,0 @@
-Human motion is instrumented with a growing number of sensors; these sensors are non-homogenous in terms of their hardware, firmware, and placement on the body, all of which lead to differences in collected data. Existing methods for dealing with this array of sensors chooses one sensor to work with that's most appropriate for that time period, which don't take into account all the nuances of sensor availability, or tries to fuse readings from many sensors, which can result in reundant computations. The authors use a siamese neural network architecture (figure 5) to judge the best source of data at a given time at the cost of extra energy. They take the best sensor and use its readings. This achieves similar accuracy to sensor fusion methods at a lower energy cost (Figure 8).
-
-Hot takes:
-personal interest: 6/10
-paper quality / novelty: 6/10

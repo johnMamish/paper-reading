@@ -1,7 +1,0 @@
-This paper was published in 2004, right as dennard scaling started to give out because of heat issues.
-
-Thermal problems need to be addressed in modern processors. The cost of a heat management system scales with power dissipation, which is growing exponentially. Even worse, CPU designs are limited by the worst-case "hot-spots" on the chip; even if most of the chip runs cool, having one small area which is hotter than the rest will hamper the performance of the entire system.
-
-The authors propose a method for modelling which parts of a chip are getting too hot in real time, and they introduce microarchitectural techniques for mitigating these issues. By briefly performing dynamic voltage scaling (DVS), by adding stalls to the pipeline, or by rescheduling some instructions to run on execution units spatially distant from hot-spots, less aggressive cooling systems are needed because the worst-case hot-spots are cooler.
-
-The authors say that the accuracy of temperature sensors affects their technique. Also, I wonder how having more plentiful and regularly-spaced temperature sensors would help dynamic thermal management (DTM) techniques. Seems like this is stuff that has maybe been undertaken since 2004.

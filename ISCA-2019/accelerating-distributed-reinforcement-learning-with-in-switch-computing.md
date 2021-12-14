@@ -1,7 +1,0 @@
-Unlike DNNs, which comparatively more time to perform a single training update, some RL techniques require much more training iterations, but each one takes way less time. This means that, when trying to parallelize RL training, a significant amount of time has to be taken for "gradient aggregation" where results from each training iteration are aggregated for future training iterations. In distributed RL training, this is typically a major bottleneck.
-
-In this work, the authors repurpose programmable network switches as computation nodes for performing gradient aggregation. Instead of workers asking each other for their results so that they can perform gradient aggregation, gradient results are snooped by the network switches and gradient aggregation is performed by an on-switch accelerator, removing the bottleneck.
-
-Hot takes:
-personal interest: 4/10 (has some flavor of off-device intermittent storage, which is something batteryless folks have been talking about recently)
-paper quality / novelty: 6/10 (not a big fan of this cause it's just using commodity hardware to - IMO - kick the can down the road a bit albeit in a clever way. If we're gonna spend time reimagining computation, we might as well not restrict ourselves to commodity hardware IMO).

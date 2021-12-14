@@ -1,7 +1,0 @@
-Now that we're getting good at stacking logic dies underneath DRAM dies to make 3D ICs, Near Data Accelerators (NDAs) are being realized. Unfortunately, NDAs require cache coherency to operate properly and traditional cache coherency protocols, when being used with off-chip things, are orderS of magnitude more energy and time expensive than when used for on-chip stuff. It takes so much cache coherency traffic that the benefits of an NDA might be completely negated.
-
-CoNDA's authors make a few key observations about typical cache coherency requirements for NDA workloads. They find that most of the cache coherency traffic that hits the NDA is never used (section 3.1?). This allows them to have NDAs which "optimistically" execute code, checking that they were coherent after the work is finished; if there was a coherency error (which is rare given the authors' investigation in section 3), then the results are discarded and the computation is tried again (section 5?). This lets them eliminate a lot of the cache coherency traffic.
-
-Hot takes:
-personal interest: 5/10 (interested in how this is an example of how economics related to homogenity of computing hardware can drive so much architecture... If we said "CPUs ONLY NEED THIS TYPE OF ACECELERATOR AND ONLY NEED 16GB DRAM" then you could just make everything Package-on-Package and the cache coherency wouldn't be so costly.)
-paper quality: 7/10
