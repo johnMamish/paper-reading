@@ -1,0 +1,5 @@
+"Tensor Train Decomposition" ("TT") is a method for drastically speeding up low-rank, high-dimensionality FC layers of neural networks by factoring them into 3-dimensional tensors. The authors claim that this method suffers from redundant computation (section 3.1), which they claim to mitigate architecturally. To be honest, I have no idea how these issues arise, and I have no idea how their special architecture mitigates it; they don't make these things clear in the abstract. A sentence in section 4.1 basically says that "the datapath of TIE is mainly responsible for executing matrix multiplication", except that there are some unique memory access patterns described in section 4.4 that are more efficient... I guess I'd need to read section 4 to really see if TIE is unique, or if they just made a bespoke chip that's kinda a tiny bit better at TT DNN eval than a GPU cluster.
+
+Hot takes:
+personal interest: 6/10 (could have some lessons for me about DNN sparsity in resource-constrained systems)
+paper quality / novelty: 5/10 (badly structured writing (they don't really say WHAT they're doing in the abstract) occluded my understanding).

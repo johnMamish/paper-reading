@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "668b21095f6b8ab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "152aac6c65c83a72",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IEEE/ISCAS/2018/An Energy Efficient JPEG Encoder with Neural Network Based Approximation and Near-Threshold Computing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a2608f318e3b0f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d88057f2bfe116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40926a295fa7f32a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b66a8a7498eb9a93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#keywords",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25a4ec7b58dfccd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "550c2bf23352da31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a230f4e219c2e4e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IEEE/ISCAS/2018/An Energy Efficient JPEG Encoder with Neural Network Based Approximation and Near-Threshold Computing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "152aac6c65c83a72",
+  "lastOpenFiles": [
+    "IEEE/ISCAS/2018/An Energy Efficient JPEG Encoder with Neural Network Based Approximation and Near-Threshold Computing.md",
+    "authors/Leibo Liu.md",
+    "authors/Fengbin Tu.md",
+    "ACM/CoNTEXT/2017/FreeRider Backscatter Communication Using Commodity Radios.md",
+    "arXiv/2019/RF Soil Moisture Sensing via Radar Backscatter Tags.md",
+    "authors/Shouyi Yin.md",
+    "template.md",
+    "Want to Read/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage.md",
+    "unfiled/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage.md",
+    "Need to Read/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub/near threshold supply voltage.md"
+  ]
+}

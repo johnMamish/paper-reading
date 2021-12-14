@@ -1,0 +1,1 @@
+Matt did his undergrad a Umich, so I've seen him around a bit. Used to pull some massive deadlifts in the gym.

@@ -1,0 +1,5 @@
+Capitalist pigs who make accelerators might want to lock their hardware down so that people can't run arbitrary networks on them. The authors describe a few previous schemes for making sure that an accelerator isn't used for an unauthorized network. I didn't really understand the existing methods, but the authors said they're slow. Figure 2 very succinctly sums up the approach of the authors. Keys are stored in the trusted execution environment of the accelerator; anyone who wants to have a network that runs on the accelerator must know the keys. They take their trained network and feed it into a special program which tweaks the network's weights and biases a tiny tiny bit (method in section 4). This affects the accuracy randomly by a few 1/10ths of a % (table 3). If a network hasn't been tweaked so it has the keys baked in, the accelerator will refuse to execute it.
+
+Hot takes:
+personal interest: 3/10
+paper quality / novelty: 7.5/10  (gets an extra 0.5 for how clearly figure 2 describes their concept)
