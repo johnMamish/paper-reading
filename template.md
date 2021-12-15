@@ -25,5 +25,5 @@ Some comments about the citations
  - An Obsidian-hyperlinked list of some interesting citations
  - If I want to read the paper later, I can create a new article in the "Need to Read" folder
 
-Keywords: (use Obsidian's "hashtag" feature here)
-Tags: (use Obsidian's "hashtag" feature here)
+Keywords: (link to pages under the keywords/ directory here)
+Tags: (link to pages under the tags/ directory here)

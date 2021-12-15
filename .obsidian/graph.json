@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:tags -path:\"Literature Reviews\" -path:keywords",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,18 +13,32 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:keywords",
+      "color": {
+        "a": 1,
+        "rgb": 5414624
+      }
+    },
+    {
+      "query": "path:tags",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.47640449438202,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 13.5955056179775,
+  "repelStrength": 15.1685393258427,
   "linkStrength": 1,
-  "linkDistance": 67,
-  "scale": 0.8614965023519017,
-  "close": true
+  "linkDistance": 262,
+  "scale": 0.1936259157722528,
+  "close": false
 }

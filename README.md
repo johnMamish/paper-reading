@@ -7,7 +7,7 @@ $$ \frac{1}{\sqrt{x^2 + y^2}} $$
 ## Tags
 In order to help me draw connections between papers, I also tag papers with backlinks to placeholder pages. Papers can be tagged with author names, topics, or notable paper attributes (e.g. awards, importance). "Placeholder" pages reside in the root-level authors, keywords, and tags folders.
 
-Because of Obsidian's backlinking and organization features, I can tag things. Some ideas of tags:
+Obsidian hashtag-based tags should NOT be used for this. Obsidian tags are second-class citizens in the graph view and restrict usability quite a bit.
  - About paper popularity / quality
 	 - I like it a lot: tags/favorite
 	 - It has a ton of citations: tags/highly-cited
@@ -29,5 +29,5 @@ This means that I'd be able to look at all of the "foundational" papers about "i
 
 ## To-Do
 There are a couple things I'd like to do to make the Obsidian experience nicer to work with:
- - [ ] Move notes from [[energy-adaptive-compression-papers]] to their own documents; make lit-review tag for Energy adaptive compression
+ - [ ] Move notes from [[Energy Adaptive Compression]] to their own documents; make lit-review tag for Energy adaptive compression
  - [x] Figure out how to color-code nodes based on folder (I want all the "author" nodes to be, say, red)

@@ -1,0 +1,1 @@
+## Highly energy and performance efficient embedded computing through approximately correct arithmetic A mathematical foundation and preliminary experimental validation

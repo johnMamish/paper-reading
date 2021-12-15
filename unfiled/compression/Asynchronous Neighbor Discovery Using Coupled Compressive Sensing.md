@@ -15,5 +15,5 @@ The authors show that similar or better than state-of-the-art performance can be
  - Novelty is limited; straightforward application of a well-understood technique in one domain to problem in a different domain.
  - Bothered by what I read as a lie in the title. This paper isn't TRULY asynchronous, it assumes that - although messages might not be aligned - all symbols are aligned.
 
-Keywords: #keywords/neighbor-discovery #keywords/random-access #keywords/compressive-sensing #keywords/forward-error-correction #keywords/asynchronous-schemes #keywords/wireless-communication
+Keywords: [[keywords/neighbor-discovery]] [[keywords/random-access]] [[keywords/compressive-sensing]] [[keywords/forward-error-correction]] [[keywords/asynchronous-schemes]] [[keywords/wireless-communication]]
 Tags:

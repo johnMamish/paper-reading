@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "152aac6c65c83a72",
+        "id": "e26e37c16a6d43b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IEEE/ISCAS/2018/An Energy Efficient JPEG Encoder with Neural Network Based Approximation and Near-Threshold Computing.md",
-            "mode": "source"
+            "file": "Literature Reviews/Energy Adaptive Compression.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#keywords",
+                "query": "jpeg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IEEE/ISCAS/2018/An Energy Efficient JPEG Encoder with Neural Network Based Approximation and Near-Threshold Computing.md",
+                "file": "Literature Reviews/Energy Adaptive Compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "152aac6c65c83a72",
+  "active": "e26e37c16a6d43b0",
   "lastOpenFiles": [
-    "IEEE/ISCAS/2018/An Energy Efficient JPEG Encoder with Neural Network Based Approximation and Near-Threshold Computing.md",
-    "authors/Leibo Liu.md",
-    "authors/Fengbin Tu.md",
-    "ACM/CoNTEXT/2017/FreeRider Backscatter Communication Using Commodity Radios.md",
-    "arXiv/2019/RF Soil Moisture Sensing via Radar Backscatter Tags.md",
-    "authors/Shouyi Yin.md",
-    "template.md",
-    "Want to Read/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage.md",
-    "unfiled/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage.md",
-    "Need to Read/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub/near threshold supply voltage.md"
+    "Literature Reviews/Energy Adaptive Compression.md",
+    "unfiled/Sparse Orthogonal Matrices.md",
+    "README.md",
+    "papers/IEEE/TIT/2015/A Fast Hadamard Transform for Signals with Sub-linear Sparsity in the Transform Domain.md",
+    "papers/IEEE/CVPR/2016/ReconNet Non-Iterative Reconstruction of Images from Compressively Sensed Measurements.md",
+    "keywords/deep-learning.md",
+    "papers/Springer/Multimedia Tools and Applications/2017/Adaptive image compression based on compressive sensing for video sensor nodes.md",
+    "authors/Dianhong Wang.md",
+    "authors/Yong Wang.md",
+    "papers/IEEE/SJ/2016/Energy-Efficient Image Compressive Transmission for Wireless Camera Networks.md"
   ]
 }

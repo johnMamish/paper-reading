@@ -1,0 +1,140 @@
+{
+  "workspaces": {
+    "local graph": {
+      "main": {
+        "id": "668b21095f6b8ab4",
+        "type": "split",
+        "children": [
+          {
+            "id": "9901b6fc54e94115",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "keywords/energy-harvesting.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:authors",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:keywords",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5422560
+                      }
+                    },
+                    {
+                      "query": "path:tags",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 13.1707865168539,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4885459780778735,
+                  "close": false
+                }
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3a2608f318e3b0f7",
+        "type": "split",
+        "children": [
+          {
+            "id": "f7d88057f2bfe116",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40926a295fa7f32a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b66a8a7498eb9a93",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "jpeg",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "25a4ec7b58dfccd8",
+        "type": "split",
+        "children": [
+          {
+            "id": "550c2bf23352da31",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a230f4e219c2e4e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "keywords/energy-harvesting.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "9901b6fc54e94115"
+    }
+  },
+  "active": "local graph"
+}
