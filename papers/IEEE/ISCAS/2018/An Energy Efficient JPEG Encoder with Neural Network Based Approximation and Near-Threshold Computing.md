@@ -31,7 +31,7 @@ The paper has a pretty interesting idea; I can't help but feel like there are a 
 
 #### Interesting Citations
 Interestingly, this paper cites a lot of work from Dennis Sylvester and David Blaauw.
- - [[Want to Read/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage]]
+ - [[papers/IEEE/ISSCC/2009/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage]]
  - [[Low-power digital signal processing using approximate adders]]
 
 Keywords: [[keywords/power-consumption]] [[keywords/compression]] [[keywords/jpeg]] [[keywords/camera]] 

@@ -1,0 +1,1 @@
+Papers written by friends can be tagged with this tag.

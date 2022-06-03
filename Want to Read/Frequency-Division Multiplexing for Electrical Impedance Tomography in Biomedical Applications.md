@@ -1,4 +1,4 @@
-## Paper title
+## Frequency-Division Multiplexing for Electrical Impedance Tomography in Biomedical Applications
 #### Paper authors, year
 #### Summary
 Background / Context: Sentence on the setting of the paper, broad placement in field, large societal reason for the paper.

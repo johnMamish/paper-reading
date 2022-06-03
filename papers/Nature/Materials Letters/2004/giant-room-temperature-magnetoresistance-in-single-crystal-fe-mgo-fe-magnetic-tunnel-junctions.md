@@ -1,0 +1,23 @@
+## Giant room-temperature magnetoresistance in single-crystal Fe/MgO/Fe magnetic tunnel junctions
+
+#### Yuasa, et al, 2004
+At the time that this paper was published in 2004, magnetic tunnel junctions (MTJs) were a developing technology. They were poised to supersede spin valves, which, though more mature at the time, had an underwhelming TMR, usually only in the tens of percent at room temperature. The authors have a previous work which achieves a TMR of 88% \[2\], but theoretical calculations predicted that an ideal Fe/MgO/Fe(100) MTJs should be able to achieve a TMR of nearly 1000% \[1\]. In this paper, the authors make 2 primary contributions:
+They “demonstrate an MR ratio of up to 180% at room temperature in single-crystal Fe/MgO/Fe MTJs”
+They “observe that… \[the TMR ratio\] oscillates as a function of barrier thickness”. This is evidence that “the coherency of wave functions is conserved across the tunnel barrier”.
+They achieved this by preparing many single-crystal Fe(001)/MgO(001)/Fe(001) MTJs with varying MgO thickness and testing the parallel and anti-parallel resistance of these MTJs at different temperatures and bias voltages.
+These contributions demonstrate that MTJs can continue to improve their MR ratio and also 
+
+Achieving a larger MR ratio is important because it makes gigabit MRAM memory more feasible. As MRAM is scaled, manufacturing variation will induce greater variability across cells; furthermore, as the number of cells increases, readout circuitry will need to operate more quickly. Unless the MR ratio is sufficiently large, these goals will not be satisfied, leading to inferior memory products with an unacceptable bit-error rate.
+
+The authors make their contributions by fabricating Fe/MgO/Fe MTJs that have barrier thickness between 1.2 and 3.2 nm. To characterize the material properties of these MTJs, they take cross-sectional transmission electron microscope images. These show lattice defects at the interfaces between the Fe and MgO. They point out that there are more defects on the lower interface than the upper.
+They measure the resistance of these MTJs in both the parallel and anti-parallel state at different temperatures and bias voltages. As expected, resistance increases exponentially with barrier thickness (figure 2b). An ideal MgO barrier is not suitable for practical devices because its energy barrier is too high; the authors explain that their resistances in figure 2b are usable because of oxygen vacancies in the MgO which form gap states in the MgO’s band structure.
+They also find that, for barrier thicknesses below ~2.0nm, TMR ratio increases as barrier thickness increases. The authors explain that this is because thinner barriers allow carriers with a momentum non-normal to the barrier through, but as the barrier becomes thicker, only carriers with a momentum normal to the barrier can tunnel. Because Fe has high spin polarization in the barrier-normal direction, this results in a huge MR ratio.
+The authors discuss an oscillatory pattern in the MR ratio as a function of barrier thickness. They rule out interface morphology (roughness in a half-grown layer) as a mechanism due to the period of the oscillations. They also propose 2 potential mechanisms, but they aren’t able to confirm either of these. However, the authors posit that this oscillation is evidence that coherency is maintained across the barrier.
+
+The results in this paper are important and the data is well presented, but I thought some explanations were lacking. I couldn’t figure out how this paper achieves a higher MR ratio than their earlier work \[2\]. In \[2\], they fabricate Fe(001)/MgO(001)/Fe(001) MTJs with a barrier thickness of 2.0nm using a process that sounds similar to the one in this paper. According to the data in this paper, they should have achieved an MR ratio of ~150%, not 88%. Maybe they do describe this, but after a few reads, I couldn’t find it.
+Also - they say that the oscillation they see in figure 2c is evidence that “the coherency of electron wave functions is conserved across the tunnel barrier”. As far as I can tell, they provide no explanation for this statement.
+
+\[1\] - Mitani, S., Moriyama, T. & Takanashi, K. Fe/MgO/FeCo(100) epitaxial magnetic tunnel junctions prepared by using in situ plasma oxidation. J. Appl. Phys. 93, 8041–8043 (2003).
+\[2\] - Yuasa, S., Fukushima, A., Nagahama, T., Ando, K. & Suzuki, Y. High tunnel magnetoresistance at room temperature in fully epitaxial Fe/MgO/Fe tunnel junctions due to coherent spin-polarized tunneling. Jpn J. Appl. Phys. 43, L588–L590 (2004).
+
+Keywords: [[keywords/spintronics]]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:tags -path:\"Literature Reviews\" -path:keywords",
+  "search": "favorite",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 15.1685393258427,
   "linkStrength": 1,
   "linkDistance": 262,
-  "scale": 0.1936259157722528,
+  "scale": 0.6240635397911398,
   "close": false
 }

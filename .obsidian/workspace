@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature Reviews/Energy Adaptive Compression.md",
-            "mode": "preview"
+            "file": "papers/Nature/Materials Letters/2010/a-perpendicular-anisotropy-cofeb-mgo-magnetic-tunnel-junction.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jpeg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Reviews/Energy Adaptive Compression.md",
+                "file": "papers/Nature/Materials Letters/2010/a-perpendicular-anisotropy-cofeb-mgo-magnetic-tunnel-junction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e26e37c16a6d43b0",
   "lastOpenFiles": [
+    "papers/Nature/Materials Letters/2010/a-perpendicular-anisotropy-cofeb-mgo-magnetic-tunnel-junction.md",
+    "papers/Nature/Materials Letters/2004/giant-room-temperature-magnetoresistance-in-single-crystal-fe-mgo-fe-magnetic-tunnel-junctions.md",
+    "papers/Nature/Letters/2019/integer-factorization-using-stochastic-magnetic-tunnel-junctions.md",
+    "papers/Science/2015/blowing-magnetic-skyrmion-bubbles.md",
+    "papers/Nature/Materials Letters/2012/induction-of-coherent-magnetization-switching-in-a-few-atomic-layers-of-feco-using-voltage-pulses.md",
+    "papers/Nature/Nature Electronics/2022/Massively Parallel Probabilistic Computing with Sparse Ising Machines.md",
+    "template.md",
     "Literature Reviews/Energy Adaptive Compression.md",
-    "unfiled/Sparse Orthogonal Matrices.md",
-    "README.md",
-    "papers/IEEE/TIT/2015/A Fast Hadamard Transform for Signals with Sub-linear Sparsity in the Transform Domain.md",
-    "papers/IEEE/CVPR/2016/ReconNet Non-Iterative Reconstruction of Images from Compressively Sensed Measurements.md",
-    "keywords/deep-learning.md",
-    "papers/Springer/Multimedia Tools and Applications/2017/Adaptive image compression based on compressive sensing for video sensor nodes.md",
-    "authors/Dianhong Wang.md",
-    "authors/Yong Wang.md",
-    "papers/IEEE/SJ/2016/Energy-Efficient Image Compressive Transmission for Wireless Camera Networks.md"
+    "Want to Read/an-analog-front-end-asic-for-cardiac-EIT.md",
+    "papers/ACM/SENSYS/SENSYS-2021/rt-mdl-supporting-real-time-mixed-deep-learning-tasks-on-edge-platforms.md"
   ]
 }

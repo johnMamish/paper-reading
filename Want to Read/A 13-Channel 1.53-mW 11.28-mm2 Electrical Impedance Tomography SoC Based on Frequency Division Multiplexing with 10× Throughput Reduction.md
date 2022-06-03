@@ -1,4 +1,4 @@
-## Paper title
+## A 13-Channel 1.53-mW 11.28-mm2 Electrical Impedance Tomography SoC Based on Frequency Division Multiplexing with 10× Throughput Reduction
 #### Paper authors, year
 #### Summary
 Background / Context: Sentence on the setting of the paper, broad placement in field, large societal reason for the paper.

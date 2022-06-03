@@ -1,4 +1,4 @@
-## Paper title
+## An Analog Front-End ASIC for Cardiac Electrical Impedance Tomography
 #### Paper authors, year
 #### Summary
 Background / Context: Sentence on the setting of the paper, broad placement in field, large societal reason for the paper.

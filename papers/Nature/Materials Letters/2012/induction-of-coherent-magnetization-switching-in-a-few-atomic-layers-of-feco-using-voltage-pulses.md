@@ -1,0 +1,20 @@
+## Induction of Coherent Magnetization Switching in a few Atomic Layers of FeCo Using Voltage Pulses
+
+STT is the dominant mechanism for MTJ switching in today’s MRAM chips. Although it is a vast improvement over field-based switching, it has two major drawbacks. First is the switching time; STT switching takes an amount of time on the order of nanoseconds, and while this isn’t intolerable, it is not yet competitive with state-of-the-art 6T SRAM cells, which are widely used for on-chip caches. Second is the large driving current that STT-MRAM requires, which causes increased power consumption and increased drive transistor size requirements, which limits scalability. Previous works have successfully used an electric field to coherently switch MTJs, but these required an assisting field, making the whole voltage-controlled mission pointless. This work’s authors demonstrate coherent magnetic switching with only a constant-bias magnetic field (as opposed to an assisting field which switches polarity depending on the desired end state). The voltage pulse induces perpendicular magnetic anisotropy which induces LLG-based precession. By exciting the magnet with a voltage pulse of a very precise shape and length, the precession can be stopped when the magnet has precessed into the state opposite the one it started in (as shown in figure 2).
+
+  
+
+To demonstrate the validity of their method, the authors prepare rectangular 800x200nm FeCo/MgO/Fe MTJs on an MgO substrate via MBE. The MTJs are shown to have voltage controlled PMA by observing their TMR over a range of bias fields at different voltages (figure 1b). They demonstrate switching by using a pulse generator to send pulses with a width of 0.55 nanoseconds across the MTJ, measuring the resistance of the MTJ with a lock-in amplifier. When a negative voltage pulse is sent, the MTJ switches coherently between states exactly once with every pulse (as shown in figure 3b). When a positive voltage pulse is sent, no switching occurs; the MTJ remains in its original state (3c). An external field Hext is applied, but as stated above, this field remains the same regardless of the switching required, which is different from previous works.
+
+  
+
+To show the effect of the voltage pulse’s width on the probability of switching success, the authors attempt to switch the MTJ at many different pulse widths and many different bias fields. This result is shown in figure 4. The ripple shapes throughout the graph betray the theory behind these devices: if the voltage pulse is just the right width, the MTJ will switch once. However, if you apply the voltage for just a bit longer, the MTJ keeps precessing and ends up back in its initial state. Let it go for even longer, and the MTJ ends up switching once again, presumably after 1.5 round trips. The graphs even suggest that the MTJ has a precession frequency of a little over 1GHz. I’m disappointed that the authors didn’t try to compare this precession frequency to expected values from theory.
+
+  
+
+The technique demonstrated in this paper - if usable in practice - would clear up the shortcomings of STT-MRAM; we could have faster switching times, use less power, and have smaller drive transistors (which would improve scaling). As I see progress in this paper, it looks like there are 2 major roadblocks:
+
+1.  The requirement of an external field
+    
+2.  The requirement of a very precise voltage pulse  
+    While this work demonstrates coherent switching with a fixed voltage pulse, I imagine that this wouldn’t work over fabrication process, voltage, and temperature variation. There are quite a few interesting ways that this could be solved - by calibration processes, improved fabrication process control, or by a closed-loop driving circuit. Personally, I think that a closed-loop driving circuit would be the coolest, but it may take a prohibitive amount of power or might be intolerant of the parasitics of the driving network.

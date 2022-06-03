@@ -3,7 +3,7 @@
  - [The Sparse Fourier Transform: Theory and Practice](https://haitham.ece.illinois.edu/Papers/thesis.pdf)
 
 # Compressive Sensing Theory
- - [[Fast and Efficient Compressive Sensing using Structurally Random Matrices]]
+ - [[Current-Driven Magnetization Reversal and Spin-Wave Excitations in Co Cu Co Pillars]]
  - [[Learning Compressed Sensing]]
 This is a moderately math-heavy work that's more focused on the decoder side; still relevant though.
  - [[The Simplest Measurement Matrix for Compressed Sensing of Natural Images]]
