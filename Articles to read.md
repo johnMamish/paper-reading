@@ -1,3 +1,9 @@
+Reading queue
+- [[Resistor Emulation Approach to Low-Power RF Energy Harvesting]]
+  Resistor Emulation Approach to Low-Power Energy Harvesting
+- [[Buck-Boost Converter for Sensorless Power Optimization of Piezoelectric Energy Harvester]]
+- Power Controller Design for Maximum Power Tracking in Solar Installations
+
 From Josiah
  - [An Energy Efficient JPEG Encoder with Neural Network Based Approximation and Near-Threshold Computing](https://ieeexplore.ieee.org/abstract/document/8350956)
  - Optimal Design of JPEG Hardware Under the Approximate Computing Paradigm

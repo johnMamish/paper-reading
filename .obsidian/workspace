@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e26e37c16a6d43b0",
+        "id": "0365dc1d559ca38b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "papers/Nature/Materials Letters/2010/a-perpendicular-anisotropy-cofeb-mgo-magnetic-tunnel-junction.md",
-            "mode": "source"
+            "file": "Want to Read/enerj-approximate-data-types-for-safe-and-general-low-power-computation.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intermittent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/Nature/Materials Letters/2010/a-perpendicular-anisotropy-cofeb-mgo-magnetic-tunnel-junction.md",
+                "file": "Want to Read/enerj-approximate-data-types-for-safe-and-general-low-power-computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e26e37c16a6d43b0",
+  "active": "0365dc1d559ca38b",
   "lastOpenFiles": [
-    "papers/Nature/Materials Letters/2010/a-perpendicular-anisotropy-cofeb-mgo-magnetic-tunnel-junction.md",
-    "papers/Nature/Materials Letters/2004/giant-room-temperature-magnetoresistance-in-single-crystal-fe-mgo-fe-magnetic-tunnel-junctions.md",
-    "papers/Nature/Letters/2019/integer-factorization-using-stochastic-magnetic-tunnel-junctions.md",
-    "papers/Science/2015/blowing-magnetic-skyrmion-bubbles.md",
-    "papers/Nature/Materials Letters/2012/induction-of-coherent-magnetization-switching-in-a-few-atomic-layers-of-feco-using-voltage-pulses.md",
-    "papers/Nature/Nature Electronics/2022/Massively Parallel Probabilistic Computing with Sparse Ising Machines.md",
+    "Want to Read/enerj-approximate-data-types-for-safe-and-general-low-power-computation.md",
     "template.md",
-    "Literature Reviews/Energy Adaptive Compression.md",
-    "Want to Read/an-analog-front-end-asic-for-cardiac-EIT.md",
-    "papers/ACM/SENSYS/SENSYS-2021/rt-mdl-supporting-real-time-mixed-deep-learning-tasks-on-edge-platforms.md"
+    "Untitled.md",
+    "papers/ACM/DAC/2018/deepn-jpeg-a-dnn-favorable-jpeg-based-image-compression-framework.md",
+    "papers/Springer/The Frontiers Collection/the-memory-challenge-in-ultra-low-power-deep-learning.md",
+    "Want to Read/dory-automatic-end-to-end-deployment-of-real-world-dnns-on-low-cost-iot-mcus.md",
+    "keywords/memory.md",
+    "Want to Read/A 13-Channel 1.53-mW 11.28-mm2 Electrical Impedance Tomography SoC Based on Frequency Division Multiplexing with 10× Throughput Reduction.md",
+    "Want to Read/A Fast and Low-cost Measuring System for Electrical Impedance Tomography.md",
+    "Want to Read/Agile-research-studios-orchestrating-communities-of-practice-to-advance-research-training.md"
   ]
 }
