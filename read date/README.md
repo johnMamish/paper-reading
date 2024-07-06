@@ -1,0 +1,1 @@
+The files in this folder allow backlinks so that I can heuristically keep track of roughly when I read different papers. This is so that stuff I've read doesn't get lost in an ocean of hierarical folders about conferences.

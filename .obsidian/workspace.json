@@ -4,16 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d60aa6db1c9da2f7",
+        "id": "0506610a27e28713",
         "type": "tabs",
         "children": [
           {
-            "id": "d1fcbb870ffd695a",
+            "id": "3bd213b4ed545ea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unfiled/harvesting/Resistor Emulation Approach to Low-Power RF Energy Harvesting.md",
+                "file": "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "259bb89777bdf20d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Reviews/Art projects/\"Soft robotics\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71f6ffdca17f45c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "authors/Brandon Lucia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f88fef7d1b2d1c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "authors/Ken Mai.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,13 +85,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electromagnetic interface",
+                "query": "fpga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "06f94493fac84608",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -77,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unfiled/harvesting/Resistor Emulation Approach to Low-Power RF Energy Harvesting.md",
+                "file": "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -105,29 +149,41 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d1fcbb870ffd695a",
+  "active": "3bd213b4ed545ea8",
   "lastOpenFiles": [
-    "Articles to read.md",
-    "unfiled/harvesting/Resistor Emulation Approach to Low-Power RF Energy Harvesting.md",
-    "Literature Reviews/Switching energy harvesters.md",
-    "unfiled/harvesting/Buck-Boost Converter for Sensorless Power Optimization of Piezoelectric Energy Harvester.md",
-    "unfiled/harvesting/Adaptive Piezoelectric Energy Harvesting Circuit for Wireless Remote Power Supply.md",
-    "unfiled/harvesting/Adaptive Piezoelectric Energy Harvesting Circuit for  Wireless Remote Power Supply.md",
-    "README.md",
+    "keywords/soft-robotics.md",
+    "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
+    "keywords/electropermanent-magnets.md",
+    "Literature Reviews/Art projects/\"Soft robotics\".md",
+    "read date/2024/july.md",
+    "read date/2024/june.md",
+    "Literature Reviews/Art projects",
     "template.md",
-    "Untitled.md",
-    "unfiled/harvesting/Equivalent Electric Circuit Modeling and Performance Analysis of a PEM Fuel Cell Stack Using Impedance Spectroscopy.md",
-    "unfiled/harvesting/Electromagnetic Energy Harvester Interface Design for Wearable Applications.md",
-    "unfiled/harvesting",
-    "Untitled",
-    "().md",
-    "papers/ACM/SIGARCH/Clank Architectural Support for Intermittent Computation.md",
-    "keywords/energy-harvesting.md",
-    "Literature Reviews/Energy Adaptive Compression.md",
-    "Literature Reviews/HDRCam ISP.md",
-    "papers/IEEE/SENSORS/2017/Impact of switching of the electrical harvesting interface on microbial fuel cell losses.md",
-    "papers/Physical Review Letters/2000/Current-Driven Magnetization Reversal and Spin-Wave Excitations in Co Cu Co Pillars.md",
-    "papers/arXiv/2022/What Does a One-Bit Quanta Image Sensor Offer?.md",
-    "papers/arXiv/2019/Zygarde Time-Sensitive On-Device Deep Inference and Adaptation on intermittently powered systems.md"
+    "papers/Untitled.md",
+    "papers/Wiley-VCH",
+    "papers/IEEE/ISSCC/2009/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage.md",
+    "authors/Ioannis Gkioulekas.md",
+    "papers/ACM-SIGDA/FPGA/Quantifying the Cost and Benefit of Latency Insensitive Communication on FPGAs.md",
+    "keywords/architecture.md",
+    "keywords/FPGA.md",
+    "authors/Kaiyuan Yang.md",
+    "authors/Richard Baraniuk.md",
+    "keywords/voltage-regulators.md",
+    "papers/IEEE/CVPR/2024/Objects as volumes- A stochastic geometry view of opaque solids.md",
+    "keywords/light-transport.md",
+    "papers/IEEE/CVPR/2024/Generative Image Dynamics.md",
+    "authors/Zaixing He.md",
+    "authors/Yong Wang.md",
+    "authors/Yang Zhang.md",
+    "authors/Xufan Zhang.md",
+    "authors/Yamin Li.md",
+    "authors/00template.md",
+    "authors/Todd Zickler.md",
+    "papers/IEEE/CVPR/2024",
+    "read date/2024/06",
+    "read date/2024",
+    "read date",
+    "papers/unfiled",
+    "unfiled/harvesting"
   ]
 }

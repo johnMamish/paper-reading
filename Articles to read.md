@@ -1,9 +1,12 @@
 Reading queue
-- [[Resistor Emulation Approach to Low-Power RF Energy Harvesting]]
-  Resistor Emulation Approach to Low-Power Energy Harvesting
-- [[Buck-Boost Converter for Sensorless Power Optimization of Piezoelectric Energy Harvester]]
-- Power Controller Design for Maximum Power Tracking in Solar Installations
-
+- https://towardsdatascience.com/reinforcement-learning-made-simple-part-2-solution-approaches-7e37cbf2334e
+- Radial Basis Function Network Control With Improved Particle Swarm Optimization for Induction Generator System
+  The exact method isn't of interest so much as the context that this paper will provide
+- A reinforcement learning approach for MPPT control method of photovoltaic sources
+- An Adaptive Network-Based Reinforcement Learning Method for MPPT Control of PMSG Wind Energy Conversion Systems
+  Follow up to the other WECS paper you read. Seems to delve deeper and give a more complete treatment.
+- An Overview of Artificial Intelligence Applications for Power Electronics
+  Long, probably good for citation hunting.
 From Josiah
  - [An Energy Efficient JPEG Encoder with Neural Network Based Approximation and Near-Threshold Computing](https://ieeexplore.ieee.org/abstract/document/8350956)
  - Optimal Design of JPEG Hardware Under the Approximate Computing Paradigm

@@ -1,0 +1,5 @@
+- Survey papers
+	- Sensing in Soft Robotics (hegde, su, et al)
+	- Toward Perceptive Soft Robots: Progress and Challenges
+- Soft capacitive tactile sensing array with high-robustness for three-axis pressure measurement
+- Google: "compliant electrodes"

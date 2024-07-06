@@ -27,3 +27,4 @@ Some comments about the citations
 
 Keywords: (link to pages under the keywords/ directory here)
 Tags: (link to pages under the tags/ directory here)
+Read date: [[read date/year/month]]

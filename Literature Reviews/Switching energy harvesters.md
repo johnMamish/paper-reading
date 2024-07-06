@@ -1,6 +1,4 @@
-# Extra stuff
-- A Report on Semiconductor Foundry Access by US Academics
-  Some resources about fabricating ASICs as an academic.
+
 
 # Circuit Techniques
 ## MFCs
@@ -9,10 +7,15 @@
 * 100 μW coreless flyback converter for microbial fuel cells energy harvesting
 * Equivalent Electric Circuit Modeling and Performance Analysis of a PEM Fuel Cell Stack Using Impedance Spectroscopy
 
+## Solar
+- [[Power Controller Design for Maximum Power Tracking in Solar Installations]]
+  Foundational, mostly focuses on a control law to choose buck regulator duty cycle u(t) to maximize input and output power.
+
 ## Coil-Based
 * [[Electromagnetic Energy Harvester Interface Design for Wearable Applications]]
+  *** This is the one you were really inspired by from the Tsinghua prof
 
-## RF
+## "Resistor Emulation"
 - [[Resistor Emulation Approach to Low-Power RF Energy Harvesting]]
   Even though this paper is aimed at RF harvesting, in principle they are proposing the same thing that we want to do - have a DC/DC regulator behave like a resistor at its input port.
   They refer to this technique as **resistor emulation** and say that it has already found broad use in switching PFC circuits.
@@ -43,8 +46,19 @@
 ## Wind Energy
 * Classical Modelling
 * Deep learning
-	* [Reinforcement-Learning-Based Intelligent Maximum Power Point Tracking Control for Wind Energy Conversion Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7081385)
+	* [[Reinforcement-Learning-Based Intelligent Maximum Power Point Tracking Control for Wind Energy Conversion Systems]]
 
 ## Photovoltaic
  * Deep learning
 	 * [A Reinforcement Learning-Based Maximum Power Point Tracking Method for Photovoltaic Array](https://downloads.hindawi.com/journals/ijp/2015/496401.pdf): 2015
+	 * [[Maximum Power Point Tracking of Photovoltaic System Based on Reinforcement Learning]], 2019
+
+# Questions
+- In [[Resistor Emulation Approach to Low-Power RF Energy Harvesting]], why do they turn on and off a square wave? why not just adjust the duty cycle of the pwm directly? Some thoughts on why this might be:
+   1. Control circuitry to precisely adjust PWM would be too high power (I bet this is it.)
+   2. Keeping a square wave improves resistor emulation (not sure about this one ?)
+   3. Makes it easier to keep circuit in DCM (also not sure about this one)
+
+# Extra stuff
+- A Report on Semiconductor Foundry Access by US Academics
+  Some resources about fabricating ASICs as an academic.
