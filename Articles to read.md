@@ -1,4 +1,7 @@
 Reading queue
+- Paragon: QoS-Aware Scheduling for Heterogeneous Datacenters
+- ELI: bare-metal performance for I/O virtualization
+- https://github.com/SymbioticEDA/MARLANN
 - https://towardsdatascience.com/reinforcement-learning-made-simple-part-2-solution-approaches-7e37cbf2334e
 - Radial Basis Function Network Control With Improved Particle Swarm Optimization for Induction Generator System
   The exact method isn't of interest so much as the context that this paper will provide

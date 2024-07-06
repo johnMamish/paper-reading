@@ -3,3 +3,4 @@
 	- Toward Perceptive Soft Robots: Progress and Challenges
 - Soft capacitive tactile sensing array with high-robustness for three-axis pressure measurement
 - Google: "compliant electrodes"
+- Batch Fabrication of Customizable Silicone-Textile Composite Capacitive Strain Sensors for Human Motion Tracking

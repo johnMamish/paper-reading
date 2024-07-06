@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bd213b4ed545ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "259bb89777bdf20d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Reviews/Art projects/\"Soft robotics\".md",
+                "file": "papers/ACM/ASPLOS/unfiled/DianNao - A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
+                "file": "papers/ACM/ASPLOS/unfiled/DianNao - A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,16 +136,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3bd213b4ed545ea8",
+  "active": "259bb89777bdf20d",
   "lastOpenFiles": [
-    "keywords/soft-robotics.md",
-    "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
-    "keywords/electropermanent-magnets.md",
+    "template.md",
+    "papers/ACM/ASPLOS/unfiled/DianNao - A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.md",
+    "papers/ACM/ASPLOS/Untitled.md",
+    "papers/ACM/ASPLOS/unfiled",
+    "Articles to read.md",
     "Literature Reviews/Art projects/\"Soft robotics\".md",
     "read date/2024/july.md",
+    "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
+    "keywords/soft-robotics.md",
+    "keywords/electropermanent-magnets.md",
     "read date/2024/june.md",
     "Literature Reviews/Art projects",
-    "template.md",
     "papers/Untitled.md",
     "papers/Wiley-VCH",
     "papers/IEEE/ISSCC/2009/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage.md",
@@ -176,9 +167,6 @@
     "authors/Yong Wang.md",
     "authors/Yang Zhang.md",
     "authors/Xufan Zhang.md",
-    "authors/Yamin Li.md",
-    "authors/00template.md",
-    "authors/Todd Zickler.md",
     "papers/IEEE/CVPR/2024",
     "read date/2024/06",
     "read date/2024",
