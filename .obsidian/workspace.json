@@ -8,12 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "259bb89777bdf20d",
+            "id": "f42db0db55732512",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/ACM/ASPLOS/unfiled/DianNao - A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.md",
+                "file": "read date/2024/july.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d8d547a2dac5f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "read date/2024/june.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f50c19edadb187d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/ACM/ASPLOS/unfiled/Eli - Bare-Metal Performance for IO Virtualization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e244a9696b751bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tags/influential.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/ACM/ASPLOS/unfiled/DianNao - A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.md",
+                "file": "tags/influential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,37 +173,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "259bb89777bdf20d",
+  "active": "e244a9696b751bd9",
   "lastOpenFiles": [
+    "papers/ACM/ASPLOS/unfiled/Eli - Bare-Metal Performance for IO Virtualization.md",
+    "tags/influential.md",
+    "keywords/operating-systems.md",
+    "read date/2024/july.md",
     "template.md",
+    "papers/unfiled/A 10.33 μJ per encryption Homomorphic Encryption Engine in 28nm CMOS with 4096-degree 109-bit Polynomials for Resource-Constrained IoT Clients.md",
+    "read date/2024/june.md",
+    "papers/ACM-SIGDA/FPGA/Quantifying the Cost and Benefit of Latency Insensitive Communication on FPGAs.md",
     "papers/ACM/ASPLOS/unfiled/DianNao - A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.md",
+    "papers/IEEE/CVPR/2024/Generative Image Dynamics.md",
+    "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
+    "papers/IEEE/CVPR/2024/Objects as volumes- A stochastic geometry view of opaque solids.md",
     "papers/ACM/ASPLOS/Untitled.md",
     "papers/ACM/ASPLOS/unfiled",
     "Articles to read.md",
     "Literature Reviews/Art projects/\"Soft robotics\".md",
-    "read date/2024/july.md",
-    "papers/Wiley-VCH/Magnetorheological Fluid-Based Flow Control for SoftRobots.md",
     "keywords/soft-robotics.md",
     "keywords/electropermanent-magnets.md",
-    "read date/2024/june.md",
     "Literature Reviews/Art projects",
     "papers/Untitled.md",
     "papers/Wiley-VCH",
     "papers/IEEE/ISSCC/2009/An ultra-low-energy multi-standard JPEG co-processor in 65 nm CMOS with sub-near threshold supply voltage.md",
     "authors/Ioannis Gkioulekas.md",
-    "papers/ACM-SIGDA/FPGA/Quantifying the Cost and Benefit of Latency Insensitive Communication on FPGAs.md",
     "keywords/architecture.md",
     "keywords/FPGA.md",
     "authors/Kaiyuan Yang.md",
     "authors/Richard Baraniuk.md",
     "keywords/voltage-regulators.md",
-    "papers/IEEE/CVPR/2024/Objects as volumes- A stochastic geometry view of opaque solids.md",
     "keywords/light-transport.md",
-    "papers/IEEE/CVPR/2024/Generative Image Dynamics.md",
-    "authors/Zaixing He.md",
-    "authors/Yong Wang.md",
-    "authors/Yang Zhang.md",
-    "authors/Xufan Zhang.md",
     "papers/IEEE/CVPR/2024",
     "read date/2024/06",
     "read date/2024",
