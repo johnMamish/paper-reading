@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/influential.md",
+                "file": "papers/ACM/Mobisys/BackDoor - Making Microphones Hear Inaudible Sounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tags/influential.md",
+                "file": "papers/ACM/Mobisys/BackDoor - Making Microphones Hear Inaudible Sounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,11 +175,13 @@
   },
   "active": "e244a9696b751bd9",
   "lastOpenFiles": [
-    "papers/ACM/ASPLOS/unfiled/Eli - Bare-Metal Performance for IO Virtualization.md",
-    "tags/influential.md",
-    "keywords/operating-systems.md",
     "read date/2024/july.md",
+    "papers/ACM/Mobisys/BackDoor - Making Microphones Hear Inaudible Sounds.md",
     "template.md",
+    "tags/influential.md",
+    "papers/ACM/Mobisys",
+    "papers/ACM/ASPLOS/unfiled/Eli - Bare-Metal Performance for IO Virtualization.md",
+    "keywords/operating-systems.md",
     "papers/unfiled/A 10.33 μJ per encryption Homomorphic Encryption Engine in 28nm CMOS with 4096-degree 109-bit Polynomials for Resource-Constrained IoT Clients.md",
     "read date/2024/june.md",
     "papers/ACM-SIGDA/FPGA/Quantifying the Cost and Benefit of Latency Insensitive Communication on FPGAs.md",
@@ -203,7 +205,6 @@
     "authors/Kaiyuan Yang.md",
     "authors/Richard Baraniuk.md",
     "keywords/voltage-regulators.md",
-    "keywords/light-transport.md",
     "papers/IEEE/CVPR/2024",
     "read date/2024/06",
     "read date/2024",

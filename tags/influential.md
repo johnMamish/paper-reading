@@ -1,1 +1,1 @@
-Tag for the ASPLOS influential award
+Tag for various "influential" and "test of time" awards, typically awarded years after a paper is published.
