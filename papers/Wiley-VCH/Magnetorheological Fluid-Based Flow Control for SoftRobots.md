@@ -35,4 +35,4 @@ Would be very interesting to see this work in a low-power context with an **elec
 
 Keywords: [[keywords/soft-robotics]], [[keywords/electropermanent-magnets]]
 Tags: 
-Read date: [[read date/2024/july]]
+Read date: [[july]]

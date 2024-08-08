@@ -27,4 +27,4 @@ Applications!! lol
 
 Keywords: [[deep-learning]], [[keywords/diffusion-model]]
 Tags:
-Read date: [[read date/2024/july]]
+Read date: [[july]]

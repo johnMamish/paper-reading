@@ -31,4 +31,4 @@ Some comments about the citations
 
 Keywords: [[keywords/FPGA]], [[keywords/architecture]], [[cad]]
 Tags: 
-Read date: [[read date/2024/june]]
+Read date: [[june]]

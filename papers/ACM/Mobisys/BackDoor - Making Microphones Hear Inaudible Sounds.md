@@ -25,4 +25,4 @@ I suspect that BackDoor is hard to eliminate for MEMS mics: all of their tested 
 
 Keywords:  [[keywords/audio]] 
 Tags:
-Read date: [[2024/july]]
+Read date: [[july]]

@@ -27,4 +27,4 @@ This interesting work is directly applicable to datacenters. I remain a little u
 
 Keywords: [[keywords/operating-systems]]
 Tags: [[tags/influential]]
-Read date: [[read date/2024/july]]
+Read date: [[july]]

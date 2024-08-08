@@ -20,4 +20,4 @@ This paper is definitely a little past my limit of understanding.
 
 Keywords: [[deep-learning]], [[keywords/light-transport]]
 Tags: 
-Read date: [[read date/2024/july]]
+Read date: [[july]]

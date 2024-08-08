@@ -32,4 +32,4 @@ Some comments about the citations
 
 Keywords: [[deep-learning]], [[vlsi]], [[keywords/mobile-computing]], [[FPGA]]
 Tags: [[foundational]], [[tags/best-paper-award]]
-Read date: [[2024/july]]
+Read date: [[july]]
